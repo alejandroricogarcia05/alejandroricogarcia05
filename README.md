@@ -25,6 +25,7 @@ I also bring **leadership and decision-making skills** acquired through two year
 Project:[Battleship](https://github.com/alejandroricogarcia05/Battleship)
 
 -![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python)
+Project:[Captcha Resolver](https://github.com/alejandroricogarcia05/CaptchaResolver)
 
 -![C](https://img.shields.io/badge/C-informational?style=flat&logo=c)
 Project:[Operating Systems Practice](https://github.com/alejandroricogarcia05/OperatingSystems)
