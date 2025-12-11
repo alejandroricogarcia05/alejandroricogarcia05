@@ -44,6 +44,7 @@ Project:[Restaurant Web](https://github.com/alejandroricogarcia05/restaurante)
 ---
 
 ## 🚀 Featured Projects
+- [Captcha Resolver](https://github.com/alejandroricogarcia05/CaptchaResolver): Python Machine Learning Model for solving alphanumeric captchas.
 - [Battleship](https://github.com/alejandroricogarcia05/Battleship): Classic Java-based strategy game with modular architecture.  
 - [Restaurante](https://github.com/alejandroricogarcia05/restaurante): Web-based recipe and menu manager built with Node.js, Svelte, and MySQL.  
 
