@@ -61,7 +61,7 @@ I apply the same rigor and analytical thinking required in software architecture
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandroricog&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alejandroricogarcia05&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
