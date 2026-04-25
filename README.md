@@ -29,7 +29,7 @@ Currently working as an **R&D Software Engineer Intern**, I lead the migration o
 
 ### 🌟 Featured Projects
 
-#### 🏗️ [GenAIGrader | R&D GenAI Architecture](https://github.com/alejandroricogarcia05/GenAIGrader)
+#### 🏗️ [GenAIGrader | R&D GenAI Architecture](https://github.com/jentrialgo/genaigrader)
 **Architectural Migration & AI Automation**
 - **The Challenge**: Refactor a monolithic platform into a decoupled **RESTful API** architecture (Django REST Framework) for automated exam grading.
 - **Key Achievements**: 
