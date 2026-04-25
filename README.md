@@ -57,12 +57,6 @@ I apply the same rigor and analytical thinking required in software architecture
 * **Conflict Resolution**: Communicating effectively and maintaining authority in dynamic environments.
 * **Integrity**: Applying rules with total impartiality and objectivity.
 
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandroricogarcia05&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 ---
 <p align="center">
