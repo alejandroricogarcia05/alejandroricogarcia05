@@ -1,52 +1,70 @@
-# 👋 Hi! I'm Alejandro Rico García  
-### Software Engineering Student at Universidad Politécnica de Madrid
+# 👋 Hi, I'm Alejandro Rico García  
+### Software Engineering Student @ Universidad Politécnica de Madrid (UPM)
 
-📍 Based in Alcobendas, Madrid, Spain  
-📧 alejandroricogarcia05@gmail.com | [LinkedIn](https://www.linkedin.com/in/alejandro-rico-garcia-705724271) | [GitHub](https://github.com/alejandroricogarcia05)
-
----
-
-I’m a third-year Software Engineering student at **Universidad Politécnica de Madrid**, passionate about **software architecture**, **system design**, and **Agile development**.  
-Strong foundation in **software architecture, database systems, and integrating AI/LLM solutions into automated workflows.** I also bring **leadership and decision-making skills** acquired through two years as a **football referee**, where I learned to manage pressure, resolve conflicts, and communicate effectively in dynamic environments.
-
-💡 Currently seeking opportunities to apply my architectural and technical expertise to real-world enterprise solutions while collaborating in cross-functional teams.
+<p align="left">
+  <a href="https://www.linkedin.com/in/alejandro-rico-garcia-705724271"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:alejandroricogarcia05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-## 🛠️ Skills & Tools
-- **Programming Languages:** Java (OOP, Concurrency), Python, C, JavaScript, GDScript  
-- **Software Engineering:** UML, Design Patterns, Software Architecture, Requirements Engineering  
-- **Systems & Networks:** Computer Networks (TCP/IP), Distributed Systems, OS Process Management  
-- **Databases:** SQL, Database Optimization, Transaction Management  
-- **Tools & Methodologies:** Git/GitHub, Maven, IntelliJ IDEA, Agile/Scrum, CI/CD  
+### 🚀 About Me
+I am a 3rd-year **Software Engineering** student at **ETSISI (UPM)**. My professional focus lies in **software architecture**, designing scalable systems, and integrating **GenAI** solutions into production environments.
 
-- ![n8n](https://img.shields.io/badge/n8n-informational?style=flat&logo=n8n) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql) ![AI/LLM](https://img.shields.io/badge/AI/LLMs-informational?style=flat&logo=openai)
-Project: [Autonomous AI Agent (Paco)](https://github.com/alejandroricogarcia05/n8n-workflows)
-
-- ![Java](https://img.shields.io/badge/Java-informational?style=flat&logo=java)
-Project: [Battleship](https://github.com/alejandroricogarcia05/Battleship)
-
-- ![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python)
-Project: [Captcha Resolver](https://github.com/alejandroricogarcia05/CaptchaResolver)
-
-- ![C](https://img.shields.io/badge/C-informational?style=flat&logo=c)
-Project: [Operating Systems Practice](https://github.com/alejandroricogarcia05/OperatingSystems)
-
-- ![Godot](https://img.shields.io/badge/Godot-informational?style=flat&logo=godot-engine)
-Projects: [Tank Game](https://github.com/alejandroricogarcia05/Tank) | [Waves GameJam](https://github.com/Hector-sj/GameJam-DVJ-2025-G13)
-
-- ![SQL](https://img.shields.io/badge/SQL-informational?style=flat&logo=mysql) ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript) ![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker)
-Project: [Restaurant Web](https://github.com/alejandroricogarcia05/restaurante)
+Currently working as an **R&D Software Engineer Intern**, I lead the migration of monolithic platforms toward **microservices and REST API** architectures, prioritizing data privacy and high code quality.
 
 ---
 
-## 🚀 Featured Projects
-- [Autonomous AI Agent & Automation Architecture](https://github.com/alejandroricogarcia05/n8n-workflows): Self-hosted AI personal assistant built with n8n, DeepSeek LLMs, and PostgreSQL, featuring an automated GitHub CI/CD backup pipeline.
-- [Captcha Resolver](https://github.com/alejandroricogarcia05/CaptchaResolver): Python Machine Learning Model for solving alphanumeric captchas.
-- [Battleship](https://github.com/alejandroricogarcia05/Battleship): Classic Java-based strategy game with modular architecture.  
-- [Restaurante](https://github.com/alejandroricogarcia05/restaurante): Web-based recipe and menu manager built with Node.js, Svelte, and MySQL.  
+### 🛠️ Technical Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Backend** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **AI/ML** | ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square) ![DeepSeek](https://img.shields.io/badge/DeepSeek-blue?style=flat-square) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
 
 ---
 
-## ⚽ Beyond Coding
-Alongside my studies, I serve as a **Football Referee** under the **Madrid Football Federation**, where I apply analytical thinking, composure, and fairness in high-stakes scenarios — qualities I also bring into software projects.
+### 🌟 Featured Projects
+
+#### 🏗️ [GenAIGrader | R&D GenAI Architecture](https://github.com/alejandroricogarcia05/GenAIGrader)
+**Architectural Migration & AI Automation**
+- **The Challenge**: Refactor a monolithic platform into a decoupled **RESTful API** architecture (Django REST Framework) for automated exam grading.
+- **Key Achievements**: 
+  - Integrated **local LLMs (Ollama/DeepSeek)** to ensure 100% data privacy.
+  - Implemented robust **CI/CD pipelines** using GitHub Actions.
+  - Reduced grading turnaround time by 90% while maintaining enterprise-grade precision.
+
+#### 🤖 [Autonomous AI Agent (Paco)](https://github.com/alejandroricogarcia05/n8n-workflows)
+**System Design & Automation**
+- Orchestrated complex data workflows using **n8n** and **PostgreSQL**.
+- Deployed on a **private VPS** with automated backup management via GitHub and Telegram APIs.
+
+#### 🚢 [Battleship Strategy Game](https://github.com/alejandroricogarcia05/Battleship)
+**Software Quality & Leadership**
+- Led a team of 7 engineers under **Agile/Scrum** methodologies.
+- Strict adherence to **SOLID principles** and design patterns.
+- Achieved **100% Unit Test Coverage** using JUnit 5.
+
+---
+
+### ⚽ Leadership & Soft Skills
+**Football Referee | Madrid Football Federation**
+I apply the same rigor and analytical thinking required in software architecture to my role on the pitch:
+* **Decision Making**: Managing high-pressure scenarios where split-second accuracy is non-negotiable.
+* **Conflict Resolution**: Communicating effectively and maintaining authority in dynamic environments.
+* **Integrity**: Applying rules with total impartiality and objectivity.
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alejandroricog&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+<p align="center">
+  <em>"Good architecture is not just about code that works; it's about code that lasts."</em>
+</p>
