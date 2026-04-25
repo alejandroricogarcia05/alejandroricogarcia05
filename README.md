@@ -11,7 +11,7 @@
 ### 🚀 About Me
 I am a 3rd-year **Software Engineering** student at **ETSISI (UPM)**. My professional focus lies in **software architecture**, designing scalable systems, and integrating **GenAI** solutions into production environments.
 
-Currently working as an **R&D Software Engineer Intern**, I lead the migration of monolithic platforms toward **microservices and REST API** architectures, prioritizing data privacy and high code quality.
+Currently working as an **R&D Software Engineer Intern**, I lead the migration of monolithic platforms toward a REST API, prioritizing data privacy and high code quality.
 
 ---
 
